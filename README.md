@@ -1,5 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Pooja Rawat</h1>
+<h1 align="center">Hi 👋, I'm Pooja Rawat</h1>  
+Always ready to learn something new !!
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://tenor.com/view/programmer-rounded-edges-gif-26214286">
 
