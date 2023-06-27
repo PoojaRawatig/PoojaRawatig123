@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="400" src="https://tenor.com/view/programmer-rounded-edges-gif-26214286">
 
 <p align="left"> 
-<p align="left"> <a href="https://twitter.com/@poojara71213774" target="blank"><img src="https://img.shields.io/twitter/follow/@poojara71213774?logo=twitter&style=for-the-badge" alt="@poojara71213774" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@poojara71213774" target="blank">logo=twitter&style=for-the-badge" alt="@poojara71213774" /></a> </p>
 
 - 🔭 I’m currently working on **Website**
 
