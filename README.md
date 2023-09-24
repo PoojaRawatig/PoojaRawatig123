@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Pooja Rawat</h1>  
-**` Full Stack Developer`**
+**` Full Stack Developer`** <a href="https://poojarawatig.github.io/github.io/">Click</a>.
+<br>
 I am just a simple student and love to
       learn some new things daily believe understanding is the key to learning I believe no opportunity should be
       wasted, one must make the most of every opportunity and if one does not have any then he must know how to create
@@ -9,9 +10,10 @@ I am just a simple student and love to
       commit to myself not to others and complete the work on time, I Only work on myself to change the inside not the
       outside. Life is short I know it very well that’s the only reason I wanted to do everything on time and and they r
       only my dreams which brings the fire and I work harder and harder day by day to achieve it..&#128218; 
+      
 
 <h3 align="center">Always ready to learn something new !!</h3>
-<img align="right" alt="coding" width="400" src="https://myways-public-data-prod.s3.ap-south-1.amazonaws.com/myways-resource-library/blogs/roadmap-to-become-a-full-stack-developer_Image_blogs.png">
+
 <p align="left"> 
 
 
