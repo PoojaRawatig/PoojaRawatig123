@@ -8,19 +8,11 @@ Hey there! 🌟 I'm a Web Developer and UI Designer who's passionate about makin
 About Me 😎
 I specialize in creating websites that are not only visually appealing but also easy to use. I believe in keeping things simple and accessible for everyone.
 
-🛠️ With over 20 projects under my belt, I've honed my skills and love taking on new challenges. You can find some of my work on Frontend Mentor.
-
-👀 Check out my pinned repos to see what I've been working on lately. I'm always eager to learn and grow in my free time.
+🛠️ I've honed my skills and love taking on new challenges. You can find some of my work on Frontend Mentor.
 
 Let's Connect 🤝
 Whether you're a developer, designer, or just someone who loves tech, I'd love to chat! Drop me a line at contact.poojarawatig@@email.com 💌 and let's explore some creative coding adventures together!
 
-Skills and Tools 🛠️
-HTML - CSS - JavaScript, 
-
-Sass  Tailwind CSS, bootstrap, React - Styled Components
-
-React - Git - Figma - VS Code, canva,  Photoshop, gsap, Python
 
 AI tools are my go-to for creating innovative designs, shaping every project uniquely. &#128218;
 
