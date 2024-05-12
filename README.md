@@ -24,11 +24,9 @@ AI tools are my go-to for creating innovative designs, shaping every project uni
 
 <p align="left"> <a href="https://twitter.com/poojarawatig" target="blank"><img src="https://img.shields.io/twitter/follow/poojarawatig?logo=twitter&style=for-the-badge" alt="poojarawatig" /></a> </p>
 
-- 🔭 I’m currently working on [Icoder website](fyp.bio/PoojaRawat)
+- 🔭 I’m currently working on [mYnew Project](fyp.bio/PoojaRawat)
 
-- 🌱 I’m currently learning **Full stack development | UI Designer**
-
-- 👯 I’m looking to collaborate on **Linkedin Page**
+- 🌱 I’m Full stack Web developer | UI Designer**
 
 - 🤝 I’m looking for help with [mYwebsite](https://wondrous-cannoli-016c17.netlify.app/?fbclid=PAZXh0bgNhZW0CMTEAAaZsZ5F-Whh0tS09r_ifj8gFuMgV9nOsXb4h2CzU_Wxc2W8bzxnjdUULwQU_aem_AXEhCfThRhtNTOsMjZG30EvOpfiOUpm1g2amtMgR0TlcHLT8TH05_1JO4sIzGkjQ_TpX8lWBd5KNTh52h3n7U9R7)
 
