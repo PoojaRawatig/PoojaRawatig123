@@ -1,4 +1,24 @@
 <h1 align="center">Hi 👋, I'm Pooja Rawat</h1>
+ <div class="text">i am</div>
+.text {
+  color: white;
+  border-right: 2px solid #f9ca24;
+  font-size: 30px;
+  font-family: sans-serif;
+  color: #f9ca24;
+}
+var typing = new Typed(".text", {
+  strings: [
+    "",
+    "I'm Full stack developer",
+    "Graphics Designer",
+    "Web Designer",
+    "Web Developer",
+  ],
+  typeSpeed: 100,
+  backSpeed: 40,
+  loop: true,
+
 <div align="center" <img src="" </div>
 <h3 align="center">A passionate Full Stack Developer I work in Corporate IT Sector and in mY free time i make YouTube  videos</h3>
 
